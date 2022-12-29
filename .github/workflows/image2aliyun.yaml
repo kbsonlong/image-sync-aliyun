@@ -22,6 +22,7 @@ jobs:
         export ALIYUN_REGISTRY_USERNAME=${{ secrets.ALIYUN_REGISTRY_USERNAME }}
         export ALIYUN_REGISTRY_PASSWORD=${{ secrets.ALIYUN_REGISTRY_PASSWORD }}
 
+
     - name: 下载image-sync工具包
       run: |
         wget https://github.com/AliyunContainerService/image-syncer/releases/download/v1.3.1/image-syncer-v1.3.1-linux-amd64.tar.gz
@@ -29,4 +30,5 @@ jobs:
 
     - name: 执行同步镜像
       run: |
+        echo $ALIYUN_REGISTRY_USERNAME
         ./image-syncer --proc=2 --auth=./auth.json --images=./images.json --namespace=seam --retries=2
