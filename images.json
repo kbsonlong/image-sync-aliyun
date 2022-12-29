@@ -1,0 +1,4 @@
+{
+    "k8s.gcr.io/ingress-nginx/controller": "registry.cn-hangzhou.aliyuncs.com/seam/ingress-nginx-controller",
+    "k8s.gcr.io/descheduler/descheduler:v0.25.1": "registry.cn-hangzhou.aliyuncs.com/seam/descheduler:v0.25.1"
+}
