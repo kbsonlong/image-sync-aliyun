@@ -13,16 +13,6 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
 
-    - name: 镜像同步配置处理
-      run: |
-        # sed -i 's/DOCKERHUB_USERNAME/${{ secrets.DOCKERHUB_USERNAME }}/g' config.json
-        # sed -i 's/DOCKERHUB_PASSWORD/${{ secrets.DOCKERHUB_USERNAME }}/g' config.json
-        export DOCKERHUB_USERNAME=${{ secrets.DOCKERHUB_USERNAME }}
-        export DOCKERHUB_PASSWORD=${{ secrets.DOCKERHUB_PASSWORD }}
-        export ALIYUN_REGISTRY_USERNAME=${{ secrets.ALIYUN_REGISTRY_USERNAME }}
-        export ALIYUN_REGISTRY_PASSWORD=${{ secrets.ALIYUN_REGISTRY_PASSWORD }}
-
-
     - name: 下载image-sync工具包
       run: |
         wget https://github.com/AliyunContainerService/image-syncer/releases/download/v1.3.1/image-syncer-v1.3.1-linux-amd64.tar.gz
@@ -30,5 +20,9 @@ jobs:
 
     - name: 执行同步镜像
       run: |
+        export DOCKERHUB_USERNAME=${{ secrets.DOCKERHUB_USERNAME }}
+        export DOCKERHUB_PASSWORD=${{ secrets.DOCKERHUB_PASSWORD }}
+        export ALIYUN_REGISTRY_USERNAME=${{ secrets.ALIYUN_REGISTRY_USERNAME }}
+        export ALIYUN_REGISTRY_PASSWORD=${{ secrets.ALIYUN_REGISTRY_PASSWORD }}
         echo $ALIYUN_REGISTRY_USERNAME
         ./image-syncer --proc=2 --auth=./auth.json --images=./images.json --namespace=seam --retries=2
