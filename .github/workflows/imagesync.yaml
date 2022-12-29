@@ -24,5 +24,4 @@ jobs:
         export DOCKERHUB_PASSWORD=${{ secrets.DOCKERHUB_PASSWORD }}
         export ALIYUN_REGISTRY_USERNAME=${{ secrets.ALIYUN_REGISTRY_USERNAME }}
         export ALIYUN_REGISTRY_PASSWORD=${{ secrets.ALIYUN_REGISTRY_PASSWORD }}
-        echo $ALIYUN_REGISTRY_USERNAME
         ./image-syncer --proc=2 --auth=./auth.json --images=./images.json --namespace=seam --retries=2
