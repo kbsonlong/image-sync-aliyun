@@ -11,7 +11,7 @@ jobs:
 
     steps:
     - name: Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     - name: 下载image-sync工具包
       run: |
@@ -19,9 +19,10 @@ jobs:
         tar -zxf image-syncer-v1.3.1-linux-amd64.tar.gz
 
     - name: 执行同步镜像
+      env:
+        DOCKERHUB_USERNAME: ${{ secrets.DOCKERHUB_USERNAME }}
+        DOCKERHUB_PASSWORD: ${{ secrets.DOCKERHUB_PASSWORD }}
+        ALIYUN_REGISTRY_USERNAME: ${{ secrets.ALIYUN_REGISTRY_USERNAME }}
+        ALIYUN_REGISTRY_PASSWORD: ${{ secrets.ALIYUN_REGISTRY_PASSWORD }}
       run: |
-        export DOCKERHUB_USERNAME=${{ secrets.DOCKERHUB_USERNAME }}
-        export DOCKERHUB_PASSWORD=${{ secrets.DOCKERHUB_PASSWORD }}
-        export ALIYUN_REGISTRY_USERNAME=${{ secrets.ALIYUN_REGISTRY_USERNAME }}
-        export ALIYUN_REGISTRY_PASSWORD=${{ secrets.ALIYUN_REGISTRY_PASSWORD }}
         ./image-syncer --proc=2 --auth=./auth.json --images=./images.json --namespace=seam --retries=2

@@ -31,9 +31,13 @@
 ```json
 {
     "auth": {
+        "registry.cn-hangzhou.aliyuncs.com": {
+            "username": "${ALIYUN_REGISTRY_USERNAME}",
+            "password": "${ALIYUN_REGISTRY_PASSWORD}"
+        },
         "registry.hub.docker.com": {
-            "username": "DOCKERHUB_USERNAME",
-            "password": "DOCKERHUB_PASSWORD"
+            "username": "${DOCKERHUB_USERNAME}",
+            "password": "${DOCKERHUB_USERNAME}"
         }
     },
     "images": {
