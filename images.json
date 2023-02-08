@@ -3,6 +3,5 @@
     "quay.io/sighup/permission-manager:v1.7.1-rc1": "registry.cn-hangzhou.aliyuncs.com/seam/permission-manager:v1.7.1-rc1",
     "docker.io/ginuerzh/gost": "registry.cn-hangzhou.aliyuncs.com/seam/gost",
     "k8s.gcr.io/node-problem-detector/node-problem-detector:v0.8.7": "registry.cn-hangzhou.aliyuncs.com/seam/node-problem-detector:v0.8.7",
-    "k8s.gcr.io/node-problem-detector/node-problem-detector:v0.8.12": "registry.cn-hangzhou.aliyuncs.com/seam/node-problem-detector:v0.8.12",
-
+    "k8s.gcr.io/node-problem-detector/node-problem-detector:v0.8.12": "registry.cn-hangzhou.aliyuncs.com/seam/node-problem-detector:v0.8.12"
 }
