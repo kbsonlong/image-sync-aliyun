@@ -3,5 +3,11 @@
     "quay.io/sighup/permission-manager:v1.7.1-rc1": "registry.cn-hangzhou.aliyuncs.com/seam/permission-manager:v1.7.1-rc1",
     "docker.io/ginuerzh/gost": "registry.cn-hangzhou.aliyuncs.com/seam/gost",
     "k8s.gcr.io/node-problem-detector/node-problem-detector:v0.8.7": "registry.cn-hangzhou.aliyuncs.com/seam/node-problem-detector:v0.8.7",
-    "k8s.gcr.io/node-problem-detector/node-problem-detector:v0.8.12": "registry.cn-hangzhou.aliyuncs.com/seam/node-problem-detector:v0.8.12"
+    "k8s.gcr.io/node-problem-detector/node-problem-detector:v0.8.12": "registry.cn-hangzhou.aliyuncs.com/seam/node-problem-detector:v0.8.12",
+    "k8s.gcr.io/sig-storage/csi-node-driver-registrar:v2.3.0": "registry.cn-hangzhou.aliyuncs.com/seam/csi-node-driver-registrar:v2.3.0",
+    "k8s.gcr.io/sig-storage/csi-resizer:v1.2.0": "registry.cn-hangzhou.aliyuncs.com/seam/csi-resizer:v1.2.0",
+    "k8s.gcr.io/sig-storage/csi-snapshotter:v3.0.3": "registry.cn-hangzhou.aliyuncs.com/seam/csi-snapshotter:v3.0.3",
+    "k8s.gcr.io/sig-storage/snapshot-controller:v3.0.3": "registry.cn-hangzhou.aliyuncs.com/seam/snapshot-controller:v3.0.3",
+    "k8s.gcr.io/sig-storage/csi-provisioner:v3.0.0": "registry.cn-hangzhou.aliyuncs.com/seam/csi-provisioner:v3.0.0",
+    "k8s.gcr.io/sig-storage/csi-attacher:v3.1.0": "registry.cn-hangzhou.aliyuncs.com/seam/csi-attacher:v3.1.0"
 }
