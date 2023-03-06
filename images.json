@@ -10,5 +10,7 @@
     "k8s.gcr.io/sig-storage/snapshot-controller:v3.0.3": "registry.cn-hangzhou.aliyuncs.com/seam/snapshot-controller:v3.0.3",
     "k8s.gcr.io/sig-storage/csi-provisioner:v3.0.0": "registry.cn-hangzhou.aliyuncs.com/seam/csi-provisioner:v3.0.0",
     "k8s.gcr.io/sig-storage/csi-attacher:v3.1.0": "registry.cn-hangzhou.aliyuncs.com/seam/csi-attacher:v3.1.0",
-    "k8s.gcr.io/sig-storage/csi-node-driver-registrar:v2.3.0": "registry.cn-hangzhou.aliyuncs.com/seam/csi-node-driver-registrar:v2.3.0"
+    "k8s.gcr.io/sig-storage/csi-node-driver-registrar:v2.3.0": "registry.cn-hangzhou.aliyuncs.com/seam/csi-node-driver-registrar:v2.3.0",
+    "rancher/local-path-provisioner:v0.0.23": "registry.cn-hangzhou.aliyuncs.com/seam/local-path-provisioner:v0.0.23",
+    "busybox:1.35.0-glibc": "registry.cn-hangzhou.aliyuncs.com/seam/busybox:1.35.0-glibc"
 }
