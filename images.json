@@ -12,5 +12,6 @@
     "k8s.gcr.io/sig-storage/csi-attacher:v3.1.0": "registry.cn-hangzhou.aliyuncs.com/seam/csi-attacher:v3.1.0",
     "k8s.gcr.io/sig-storage/csi-node-driver-registrar:v2.3.0": "registry.cn-hangzhou.aliyuncs.com/seam/csi-node-driver-registrar:v2.3.0",
     "rancher/local-path-provisioner:v0.0.23": "registry.cn-hangzhou.aliyuncs.com/seam/local-path-provisioner:v0.0.23",
-    "busybox:1.35.0-glibc": "registry.cn-hangzhou.aliyuncs.com/seam/busybox:1.35.0-glibc"
+    "busybox:1.35.0-glibc": "registry.cn-hangzhou.aliyuncs.com/seam/busybox:1.35.0-glibc",
+    "quay.io/kubescape/host-scanner:v1.0.45": "registry.cn-hangzhou.aliyuncs.com/seam/host-scanner:v1.0.45"
 }
