@@ -15,5 +15,6 @@
     "busybox:1.35.0-glibc": "registry.cn-hangzhou.aliyuncs.com/seam/busybox:1.35.0-glibc",
     "quay.io/kubescape/host-scanner:v1.0.45": "registry.cn-hangzhou.aliyuncs.com/seam/host-scanner:v1.0.45",
     "headscale/headscale": "registry.cn-hangzhou.aliyuncs.com/seam/headscale",
-    "ghcr.io/gurucomputing/headscale-ui": "registry.cn-hangzhou.aliyuncs.com/seam/headscale-ui"
-}
+    "ghcr.io/gurucomputing/headscale-ui": "registry.cn-hangzhou.aliyuncs.com/seam/headscale-ui",
+    "quay.io/brancz/kube-rbac-proxy:HEAD-2020-05-07-2fd48d73": "registry.cn-hangzhou.aliyuncs.com/seam/kube-rbac-proxy:HEAD-2020-05-07-2fd48d73"
+} 
