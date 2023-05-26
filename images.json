@@ -1,5 +1,5 @@
 {
-    "kubesphere/kube-rbac-proxy:v0.11.0": "registry.cn-hangzhou.aliyuncs.com/seam/kube-rbac-proxy:v0.11.0",
-    "kubesphere/notification-manager-operator:v2.3.0": "registry.cn-hangzhou.aliyuncs.com/seam/notification-manager-operator:v2.3.0",
-    "kubesphere/notification-manager:v2.3.0": "registry.cn-hangzhou.aliyuncs.com/seam/notification-manager:v2.3.0"
+    "docker.io/kubesphere/kube-rbac-proxy:v0.11.0": "registry.cn-hangzhou.aliyuncs.com/seam/kube-rbac-proxy:v0.11.0",
+    "docker.io/kubesphere/notification-manager-operator:v2.3.0": "registry.cn-hangzhou.aliyuncs.com/seam/notification-manager-operator:v2.3.0",
+    "docker.io/kubesphere/notification-manager:v2.3.0": "registry.cn-hangzhou.aliyuncs.com/seam/notification-manager:v2.3.0"
 } 
