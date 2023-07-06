@@ -2,5 +2,6 @@
     "ghcr.io/chaos-mesh/chaos-coredns:v0.2.6": "registry.cn-hangzhou.aliyuncs.com/seam/chaos-coredns:v0.2.6",
 "ghcr.io/chaos-mesh/chaos-daemon:v2.6.1": "registry.cn-hangzhou.aliyuncs.com/seam/chaos-daemon:v2.6.1",
 "ghcr.io/chaos-mesh/chaos-dashboard:v2.6.1": "registry.cn-hangzhou.aliyuncs.com/seam/chaos-dashboard:v2.6.1",
-"ghcr.io/chaos-mesh/chaos-mesh:v2.6.1": "registry.cn-hangzhou.aliyuncs.com/seam/chaos-mesh:v2.6.1"
+"ghcr.io/chaos-mesh/chaos-mesh:v2.6.1": "registry.cn-hangzhou.aliyuncs.com/seam/chaos-mesh:v2.6.1",
+    "gcr.io/google-containers/pause:latest": "registry.cn-hangzhou.aliyuncs.com/seam/pause:latest"
 }
