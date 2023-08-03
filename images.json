@@ -1,4 +1,5 @@
 {
     "docker.io/kindest/node:v1.23.4": "registry.cn-hangzhou.aliyuncs.com/seam/node:v1.23.4",
-    "docker.io/kindest/node:v1.26.0": "registry.cn-hangzhou.aliyuncs.com/seam/node:v1.26.0"
+    "docker.io/kindest/node:v1.26.0": "registry.cn-hangzhou.aliyuncs.com/seam/node:v1.26.0",
+    "docker.io/kindest/node:v1.24.0": "registry.cn-hangzhou.aliyuncs.com/seam/node:v1.24.0"
 }
