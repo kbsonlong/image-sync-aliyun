@@ -1,4 +1,3 @@
 {
-    "quay.io/prometheus/prometheus:v2.39.1": "registry.cn-hangzhou.aliyuncs.com/seam/prometheus:v2.39.1",
-    "registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.5.0": "registry.cn-hangzhou.aliyuncs.com/seam/kube-state-metrics:v2.5.0"
+    "docker.io/ubuntu:22.04": "registry.cn-hangzhou.aliyuncs.com/seam/ubuntu:22.04"
 }
