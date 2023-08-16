@@ -25,4 +25,4 @@ jobs:
         ALIYUN_REGISTRY_USERNAME: ${{ secrets.ALIYUN_REGISTRY_USERNAME }}
         ALIYUN_REGISTRY_PASSWORD: ${{ secrets.ALIYUN_REGISTRY_PASSWORD }}
       run: |
-        ./image-syncer --proc=2 --auth=./auth.json --images=./images.json --namespace=seam --retries=2
+        ./image-syncer --proc=2 --auth=./auth.json --images=./images.json  --retries=2
