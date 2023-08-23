@@ -1,3 +1,4 @@
 {
-    "docker.io/kindest/node:/1.2.*/": "registry.cn-hangzhou.aliyuncs.com/seam/node"
+    "quay.io/metallb/controller:v0.13.10": "registry.cn-hangzhou.aliyuncs.com/seam/metallb-controller:v0.13.10",
+    "quay.io/metallb/speaker:v0.13.10": "registry.cn-hangzhou.aliyuncs.com/seam/metallb-speaker:v0.13.10"
 }
