@@ -1,4 +1,4 @@
 {
-    "quay.io/metallb/controller:v0.13.10": "registry.cn-hangzhou.aliyuncs.com/seam/metallb-controller:v0.13.10",
-    "quay.io/metallb/speaker:v0.13.10": "registry.cn-hangzhou.aliyuncs.com/seam/metallb-speaker:v0.13.10"
+    "docker.io/datawire/ambassador-telepresence-manager:2.13.1": "registry.cn-hangzhou.aliyuncs.com/seam/ambassador-telepresence-manager:2.13.1",
+    "docker.io/curlimages/curl:latest": "registry.cn-hangzhou.aliyuncs.com/seam/curl:latest"
 }
