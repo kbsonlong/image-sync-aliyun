@@ -1,3 +1,6 @@
 {
-    "docker.io/library/golang": "registry.cn-hangzhou.aliyuncs.com/seam/golang"
+    "docker.io/redroid/redroid": "registry.cn-hangzhou.aliyuncs.com/seam/redroid",
+    "docker.io/sorccu/adb:latest": "registry.cn-hang.aliyuncs.com/seam/adb:latest",
+    "docker.io/openstf/stf:latest": "registry.cn-hang.aliyuncs.com/seam/openstf:latest",
+    "docker.io/library/rethinkdb:latest": "registry.cn-hang.aliyuncs.com/seam/openstf:latest"
 }
