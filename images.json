@@ -1,6 +1,4 @@
 {
-    "docker.io/redroid/redroid": "registry.cn-hangzhou.aliyuncs.com/seam/redroid",
-    "docker.io/sorccu/adb:latest": "registry.cn-hang.aliyuncs.com/seam/adb:latest",
-    "docker.io/openstf/stf:latest": "registry.cn-hang.aliyuncs.com/seam/openstf:latest",
-    "docker.io/library/rethinkdb:latest": "registry.cn-hang.aliyuncs.com/seam/openstf:latest"
+    "docker.io/cfssl/cfssl:v1.6.4": "registry.cn-hangzhou.aliyuncs.com/seam/cfssl:v1.6.4",
+    "docker.io/bitnami/kubectl:1.28.3-debian-11-r0": "registry.cn-hang.aliyuncs.com/seam/kubectl:1.28.3-debian-11-r0"
 }
