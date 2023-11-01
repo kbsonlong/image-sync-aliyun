@@ -1,4 +1,4 @@
 {
     "docker.io/cfssl/cfssl:v1.6.4": "registry.cn-hangzhou.aliyuncs.com/seam/cfssl:v1.6.4",
-    "docker.io/bitnami/kubectl:1.28.3-debian-11-r0": "registry.cn-hang.aliyuncs.com/seam/kubectl:1.28.3-debian-11-r0"
+    "docker.io/bitnami/kubectl:1.28.3-debian-11-r0": "registry.cn-hangzhou.aliyuncs.com/seam/kubectl:1.28.3-debian-11-r0"
 }
