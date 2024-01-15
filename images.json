@@ -1,3 +1,3 @@
 {
-    "public.ecr.aws/gravitational/teleport-distroless-debug:14.2.3": "registry.cn-hangzhou.aliyuncs.com/seam/teleport-distroless-debug:14.2.3"
+    "quay.io/iovisor/kubectl-trace-bpftrace:latest": "registry.cn-hangzhou.aliyuncs.com/seam/kubectl-trace-bpftrace:latest"
 }
