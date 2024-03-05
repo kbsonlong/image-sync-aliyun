@@ -1,14 +1,16 @@
 {
     "kindest/node:v1.29.0@sha256:eaa1450915475849a73a9227b8f201df25e55e268e5d619312131292e324d570": "registry.cn-hangzhou.aliyuncs.com/seam/node:v1.29.0",
     "kindest/node:v1.28.0@sha256:b7a4cad12c197af3ba43202d3efe03246b3f0793f162afb40a33c923952d5b31": "registry.cn-hangzhou.aliyuncs.com/seam/node:v1.28.0",
-     "docker.io/bitnami/kubectl:latest": "registry.cn-hangzhou.aliyuncs.com/seam/kubectl:latest",
- "docker.io/cfssl/cfssl:latest": "registry.cn-hangzhou.aliyuncs.com/seam/cfssl:latest",
- "docker.io/karmada/karmada-aggregated-apiserver:v1.8.0": "registry.cn-hangzhou.aliyuncs.com/seam/karmada-aggregated-apiserver:v1.8.0",
- "docker.io/karmada/karmada-controller-manager:v1.8.0": "registry.cn-hangzhou.aliyuncs.com/seam/karmada-controller-manager:v1.8.0",
-"docker.io/karmada/karmada-metrics-adapter:v1.8.0": "registry.cn-hangzhou.aliyuncs.com/seam/karmada-metrics-adapter:v1.8.0",
-"docker.io/karmada/karmada-scheduler:v1.8.0": "registry.cn-hangzhou.aliyuncs.com/seam/karmada-scheduler:v1.8.0",
-"docker.io/karmada/karmada-webhook:v1.8.0": "registry.cn-hangzhou.aliyuncs.com/seam/karmada-webhook:v1.8.0",
-"registry.k8s.io/etcd:3.5.9-0": "registry.cn-hangzhou.aliyuncs.com/seam/etcd:3.5.9-0",
-"registry.k8s.io/kube-apiserver:v1.25.4": "registry.cn-hangzhou.aliyuncs.com/seam/kube-apiserver:v1.25.4",
-"registry.k8s.io/kube-controller-manager:v1.25.4": "registry.cn-hangzhou.aliyuncs.com/seam/kube-controller-manager:v1.25.4"
+    "docker.io/bitnami/kubectl:latest": "registry.cn-hangzhou.aliyuncs.com/seam/kubectl:latest",
+    "docker.io/cfssl/cfssl:latest": "registry.cn-hangzhou.aliyuncs.com/seam/cfssl:latest",
+    "docker.io/karmada/karmada-aggregated-apiserver:v1.9.0": "registry.cn-hangzhou.aliyuncs.com/seam/karmada-aggregated-apiserver:v1.9.0",
+    "docker.io/karmada/karmada-controller-manager:v1.9.0": "registry.cn-hangzhou.aliyuncs.com/seam/karmada-controller-manager:v1.9.0",
+    "docker.io/karmada/karmada-metrics-adapter:v1.9.0": "registry.cn-hangzhou.aliyuncs.com/seam/karmada-metrics-adapter:v1.9.0",
+    "docker.io/karmada/karmada-scheduler:v1.9.0": "registry.cn-hangzhou.aliyuncs.com/seam/karmada-scheduler:v1.9.0",
+    "docker.io/karmada/karmada-webhook:v1.9.0": "registry.cn-hangzhou.aliyuncs.com/seam/karmada-webhook:v1.9.0",
+    "docker.io/karmada/karmada-descheduler:v1.9.0": "registry.cn-hangzhou.aliyuncs.com/seam/karmada-descheduler:v1.9.0",
+    "docker.io/karmada/karmada-scheduler-estimator:v1.9.0": "registry.cn-hangzhou.aliyuncs.com/seam/karmada-scheduler-estimator:v1.9.0",
+    "registry.k8s.io/etcd:3.5.9-0": "registry.cn-hangzhou.aliyuncs.com/seam/etcd:3.5.9-0",
+    "registry.k8s.io/kube-apiserver:v1.25.4": "registry.cn-hangzhou.aliyuncs.com/seam/kube-apiserver:v1.25.4",
+    "registry.k8s.io/kube-controller-manager:v1.25.4": "registry.cn-hangzhou.aliyuncs.com/seam/kube-controller-manager:v1.25.4"
 }
