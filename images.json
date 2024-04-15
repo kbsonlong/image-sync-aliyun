@@ -1,5 +1,5 @@
 {
     "ghcr.io/kyverno/kyverno:v1.6.1": "registry.cn-hangzhou.aliyuncs.com/seam/kyverno:v1.6.1",
     "ghcr.io/kyverno/kyvernopre:v1.6.1": "registry.cn-hangzhou.aliyuncs.com/seam/kyvernopre:v1.6.1",
-    "registry.k8s.io/kube-scheduler:v1.20.0": ""registry.cn-hangzhou.aliyuncs.com/seam/kube-scheduler:v1.20.0"
+    "registry.k8s.io/kube-scheduler:v1.20.0": "registry.cn-hangzhou.aliyuncs.com/seam/kube-scheduler:v1.20.0"
 }
