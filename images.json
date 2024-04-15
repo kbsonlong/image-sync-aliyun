@@ -1,3 +1,4 @@
 {
-    "ghcr.io/kyverno/kyverno:v1.6.1": "registry.cn-hangzhou.aliyuncs.com/seam/kyverno:v1.6.1"
+    "ghcr.io/kyverno/kyverno:v1.6.1": "registry.cn-hangzhou.aliyuncs.com/seam/kyverno:v1.6.1",
+    "ghcr.io/kyverno/kyvernopre:v1.6.1": "registry.cn-hangzhou.aliyuncs.com/seam/kyvernopre:v1.6.1"
 }
