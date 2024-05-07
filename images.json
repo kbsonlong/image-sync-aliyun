@@ -1,5 +1,5 @@
 {
-"public.ecr.aws/ebs-csi-driver/aws-ebs-csi-driver:v1.20.0": "registry.cn-hangzhou.aliyuncs.com/seam/aws-ebs-csi-driver:v1.20.0",
+"registry.k8s.io/provider-aws/aws-ebs-csi-driver:v1.20.0": "registry.cn-hangzhou.aliyuncs.com/seam/aws-ebs-csi-driver:v1.20.0",
 "public.ecr.aws/eks-distro/kubernetes-csi/node-driver-registrar:v2.8.0-eks-1-27-3": "registry.cn-hangzhou.aliyuncs.com/seam/node-driver-registrar:v2.8.0-eks-1-27-3",
 "public.ecr.aws/eks-distro/kubernetes-csi/livenessprobe:v2.10.0-eks-1-27-3": "registry.cn-hangzhou.aliyuncs.com/seam/livenessprobe:v2.10.0-eks-1-27-3",
 "public.ecr.aws/ebs-csi-driver/aws-ebs-csi-driver:v1.20.0": "registry.cn-hangzhou.aliyuncs.com/seam/aws-ebs-csi-driver:v1.20.0",
@@ -7,5 +7,6 @@
 "public.ecr.aws/eks-distro/kubernetes-csi/external-attacher:v4.3.0-eks-1-27-3": "registry.cn-hangzhou.aliyuncs.com/seam/external-attacher:v4.3.0-eks-1-27-3",
 "public.ecr.aws/eks-distro/kubernetes-csi/external-resizer:v1.8.0-eks-1-27-3": "registry.cn-hangzhou.aliyuncs.com/seam/external-resizer:v1.8.0-eks-1-27-3",
 "public.ecr.aws/eks-distro/kubernetes-csi/livenessprobe:v2.10.0-eks-1-27-3": "registry.cn-hangzhou.aliyuncs.com/seam/livenessprobe:v2.10.0-eks-1-27-3",
-"public.ecr.aws/ebs-csi-driver/volume-modifier-for-k8s:v0.1.0": "registry.cn-hangzhou.aliyuncs.com/seam/volume-modifier-for-k8s:v0.1.0"
+"public.ecr.aws/ebs-csi-driver/volume-modifier-for-k8s:v0.1.0": "registry.cn-hangzhou.aliyuncs.com/seam/volume-modifier-for-k8s:v0.1.0",
+"public.ecr.aws/eks-distro/kubernetes-csi/external-snapshotter/csi-snapshotter:v6.2.1-eks-1-27-3": "registry.cn-hangzhou.aliyuncs.com/seam/csi-snapshotter:v6.2.1-eks-1-27-3"
 }
