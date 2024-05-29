@@ -1,6 +1,3 @@
 {
-"openebs/linux-utils:4.0.0": "registry.cn-hangzhou.aliyuncs.com/seam/openebs-linux-utils:4.0.0",
-"openebs/linux-utils:3.4.0": "registry.cn-hangzhou.aliyuncs.com/seam/openebs-linux-utils:3.4.0",
-"openebs/provisioner-localpv:3.4.0": "registry.cn-hangzhou.aliyuncs.com/seam/openebs-provisioner-localpv:3.4.0",
-"openebs/provisioner-localpv:4.0.0": "registry.cn-hangzhou.aliyuncs.com/seam/openebs-provisioner-localpv:4.0.0"
+"feiyu563/prometheus-alert": "registry.cn-hangzhou.aliyuncs.com/seam/prometheus-alert"
 }
