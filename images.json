@@ -1,3 +1,3 @@
 {
-"feiyu563/prometheus-alert": "registry.cn-hangzhou.aliyuncs.com/seam/prometheus-alert"
+"docker.io/nginxinc/nginx-unprivileged:1.19-alpine": "registry.cn-hangzhou.aliyuncs.com/seam/nginx:1.19-alpine"
 }
