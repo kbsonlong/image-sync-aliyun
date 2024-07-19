@@ -1,3 +1,9 @@
 {
-"registry.k8s.io/metrics-server/metrics-server:v0.7.1": "registry.cn-hangzhou.aliyuncs.com/seam/metrics-server:v0.7.1"
+"bitnami/kubectl:1.26.10": "registry.cn-hangzhou.aliyuncs.com/seam/kubectl:1.26.10",
+"bitnami/kubectl:1.26.4": "registry.cn-hangzhou.aliyuncs.com/seam/kubectl:1.26.4",
+"ghcr.io/kyverno/background-controller:v1.11.1": "registry.cn-hangzhou.aliyuncs.com/seam/background-controller:v1.11.1",
+"ghcr.io/kyverno/cleanup-controller:v1.11.1": "registry.cn-hangzhou.aliyuncs.com/seam/cleanup-controller:v1.11.1",
+"ghcr.io/kyverno/kyvernopre:v1.11.1": "registry.cn-hangzhou.aliyuncs.com/seam/kyvernopre:v1.11.1",
+"ghcr.io/kyverno/kyverno:v1.11.1": "registry.cn-hangzhou.aliyuncs.com/seam/kyverno:v1.11.1",
+"ghcr.io/kyverno/reports-controller:v1.11.1": "registry.cn-hangzhou.aliyuncs.com/seam/reports-controller:v1.11.1"
 }
