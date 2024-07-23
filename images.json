@@ -1,4 +1,4 @@
 {
-"docker.io/grafana/loki:2.8.2": "registry.cn-hangzhou.aliyuncs.com/seam/loki:2.8.2",
-"docker.io/nginxinc/nginx-unprivileged:1.19-alpine": "registry.cn-hangzhou.aliyuncs.com/seam/nginx:1.19-alpine"
+"docker.io/grafana/grafana:10.0.2": "registry.cn-hangzhou.aliyuncs.com/seam/grafana:10.0.2",
+"docker.io/library/busybox:1.31.1": "registry.cn-hangzhou.aliyuncs.com/seam/busybox:1.31.1"
 }
