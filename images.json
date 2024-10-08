@@ -1,3 +1,7 @@
 {
-"kindest/node:v1.30.0": "registry.cn-hangzhou.aliyuncs.com/seam/node:v1.30.0"
+"quay.io/minio/directpv:v4.1.4": "registry.cn-hangzhou.aliyuncs.com/seam/directpv:v4.1.4",
+"quay.io/minio/csi-node-driver-registrar@sha256:dafc7f667aa2e20d7f059c20db02dd6987c2624d64d8f166cd5930721be98ea9": "registry.cn-hangzhou.aliyuncs.com/seam/csi-node-driver-registrar:4.1.4",
+  "quay.io/minio/livenessprobe@sha256:783010e10e4d74b6b2b157a4b52772c5a264fd76bb2ad671054b8c3f706c8324": "registry.cn-hangzhou.aliyuncs.com/seam/livenessprobe:4.1.4",
+  "quay.io/minio/csi-provisioner@sha256:fc1f992dd5591357fa123c396aaadaea5033f312b9c136a11d62cf698474bebb": "registry.cn-hangzhou.aliyuncs.com/seam/csi-provisioner:4.1.4",
+  "quay.io/minio/csi-resizer@sha256:58fa627393f20892b105a137d27e236dfaec233a3a64980f84dcb15f38c21533": "registry.cn-hangzhou.aliyuncs.com/seam/csi-resizer:4.1.4"
 }
