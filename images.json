@@ -1,3 +1,4 @@
 {
-"minio/operator:v6.0.3": "registry.cn-hangzhou.aliyuncs.com/seam/minio-operator:v6.0.3"
+"minio/operator:v6.0.3": "registry.cn-hangzhou.aliyuncs.com/seam/minio-operator:v6.0.3",
+  "quay.io/minio/operator-sidecar:v6.0.2": "registry.cn-hangzhou.aliyuncs.com/seam/minio-operator-sidecar:v6.0.2"
 }
