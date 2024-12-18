@@ -1,3 +1,4 @@
 {
-"rayproject/ray-ml:2.7.0": "registry.cn-hangzhou.aliyuncs.com/seam/ray-ml:2.7.0"
+"quay.io/jacksontj/promxy:v0.0.91": "registry.cn-hangzhou.aliyuncs.com/seam/promxy:v0.0.91",
+  "docker.io/jimmidyson/configmap-reload:v0.1": "registry.cn-hangzhou.aliyuncs.com/seam/configmap-reload:v0.1"
 }
