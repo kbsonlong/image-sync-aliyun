@@ -1,3 +1,4 @@
 {
-"quay.io/cilium/cilium:v1.14.2": "registry.cn-hangzhou.aliyuncs.com/seam/cilium:v1.14.2"
+"quay.io/cilium/cilium:v1.14.2": "registry.cn-hangzhou.aliyuncs.com/seam/cilium:v1.14.2",
+  "quay.io/cilium/operator:v1.14.2": "registry.cn-hangzhou.aliyuncs.com/seam/cilium-operator:v1.14.2"
 }
