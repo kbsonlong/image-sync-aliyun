@@ -3,8 +3,8 @@
 "goharbor/harbor-db:v2.12.2": "registry.cn-hangzhou.aliyuncs.com/seam/harbor-db:v2.12.2",
 "goharbor/harbor-jobservice:v2.12.2": "registry.cn-hangzhou.aliyuncs.com/seam/harbor-jobservice:v2.12.2",
 "goharbor/harbor-portal:v2.12.2": "registry.cn-hangzhou.aliyuncs.com/seam/harbor-portal:v2.12.2",
-"goharbor/harbor-"registryctl:v2.12.2": "registry.cn-hangzhou.aliyuncs.com/seam/harbor-"registryctl:v2.12.2",
+"goharbor/harbor-registryctl:v2.12.2": "registry.cn-hangzhou.aliyuncs.com/seam/harbor-registryctl:v2.12.2",
 "goharbor/redis-photon:v2.12.2": "registry.cn-hangzhou.aliyuncs.com/seam/redis-photon:v2.12.2",
-"goharbor/"registry-photon:v2.12.2": "registry.cn-hangzhou.aliyuncs.com/seam/"registry-photon:v2.12.2",
+"goharbor/registry-photon:v2.12.2": "registry.cn-hangzhou.aliyuncs.com/seam/registry-photon:v2.12.2",
 "goharbor/trivy-adapter-photon:v2.12.2": "registry.cn-hangzhou.aliyuncs.com/seam/trivy-adapter-photon:v2.12.2"
 }
