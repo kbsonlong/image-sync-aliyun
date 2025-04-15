@@ -1,3 +1,4 @@
 {
-"idootop/mi-gpt": "registry.cn-hangzhou.aliyuncs.com/seam/mi-gpt"
+"docker.io/bitnami/redis:7.4.2-debian-12-r4": "registry.cn-hangzhou.aliyuncs.com/seam/redis:7.4.2-debian-12-r4",
+  "docker.io/bitnami/redis-sentinel:7.4.2-debian-12-r4": "registry.cn-hangzhou.aliyuncs.com/seam/redis-sentinel:7.4.2-debian-12-r4"
 }
