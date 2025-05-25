@@ -1,3 +1,3 @@
 {
-"qdrant/qdrant": "registry.cn-hangzhou.aliyuncs.com/seam/qdrant"
+"docker.io/istio/operator:1.13.4": "registry.cn-hangzhou.aliyuncs.com/seam/istio-operator:1.13.4"
 }
