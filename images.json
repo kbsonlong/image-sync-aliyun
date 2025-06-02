@@ -1,3 +1,3 @@
 {
-"docker.io/library/node:18": "registry.cn-hangzhou.aliyuncs.com/seam/node:18"
+"docker.io/library/caddy:2-alpine": "registry.cn-hangzhou.aliyuncs.com/seam/caddy:2-alpine"
 }
