@@ -2,5 +2,6 @@
   "clickhouse/clickhouse-server:24-alpine": "registry.cn-hangzhou.aliyuncs.com/seam/clickhouse-server:24-alpine",
   "docker.hyperdx.io/hyperdx/hyperdx:2.0.1": "registry.cn-hangzhou.aliyuncs.com/seam/hyperdx:2.0.1",
   "busybox:latest": "registry.cn-hangzhou.aliyuncs.com/seam/busybox:latest",
-  "mongo:5.0.14-focal": "registry.cn-hangzhou.aliyuncs.com/seam/mongo:5.0.14-focal"
+  "mongo:5.0.14-focal": "registry.cn-hangzhou.aliyuncs.com/seam/mongo:5.0.14-focal",
+  "docker.hyperdx.io/hyperdx/hyperdx-otel-collector:2.0.1": "registry.cn-hangzhou.aliyuncs.com/seam/hyperdx-otel-collector:2.0.1"
 }
