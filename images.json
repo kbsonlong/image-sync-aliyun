@@ -1,4 +1,6 @@
 {
-"ghcr.io/kyverno/kyvernopre:v1.6.3": "registry.cn-hangzhou.aliyuncs.com/seam/kyvernopre:v1.6.3",
-  "ghcr.io/kyverno/kyverno:v1.6.3": "registry.cn-hangzhou.aliyuncs.com/seam/kyverno:v1.6.3"
+  "clickhouse/clickhouse-server:24-alpine": "registry.cn-hangzhou.aliyuncs.com/seam/clickhouse-server:24-alpine",
+  "docker.hyperdx.io/hyperdx/hyperdx:2.0.1": "registry.cn-hangzhou.aliyuncs.com/seam/hyperdx:2.0.1",
+  "busybox:latest": "registry.cn-hangzhou.aliyuncs.com/seam/busybox:latest",
+  "mongo:5.0.14-focal": "registry.cn-hangzhou.aliyuncs.com/seam/mongo:5.0.14-focal"
 }
