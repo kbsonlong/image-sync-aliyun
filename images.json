@@ -1,4 +1,5 @@
 {
   "grafana/alloy:v1.9.2": "registry.cn-hangzhou.aliyuncs.com/seam/alloy:v1.9.2",
-  "mingrammer/flog:0.4.3": "registry.cn-hangzhou.aliyuncs.com/seam/flog:0.4.3"
+  "mingrammer/flog:0.4.3": "registry.cn-hangzhou.aliyuncs.com/seam/flog:0.4.3",
+  "quay.io/prometheus-operator/prometheus-config-reloader:v0.81.0": "registry.cn-hangzhou.aliyuncs.com/seam/config-reloader:v0.81.0"
 }
