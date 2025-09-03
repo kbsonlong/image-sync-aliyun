@@ -1,4 +1,4 @@
 {
-  "nginx:latest": "registry.cn-hangzhou.aliyuncs.com/seam/nginx:latest",
-  "redis:latest": "registry.cn-hangzhou.aliyuncs.com/seam/redis:latest"
+  "ubuntu:22.04": "registry.cn-hangzhou.aliyuncs.com/seam/ubuntu:22.04",
+  "ubuntu:24.04": "registry.cn-hangzhou.aliyuncs.com/seam/ubuntu:24.04"
 }
