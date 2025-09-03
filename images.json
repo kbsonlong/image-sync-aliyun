@@ -1,3 +1,4 @@
 {
-  "homeassistant/home-assistant:2025.8": "registry.cn-hangzhou.aliyuncs.com/seam/home-assistant:2025.8"
+  "nginx:latest": "registry.cn-hangzhou.aliyuncs.com/seam/nginx:latest",
+  "redis:latest": "registry.cn-hangzhou.aliyuncs.com/seam/redis:latest"
 }
