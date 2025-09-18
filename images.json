@@ -1,4 +1,4 @@
 {
-  "ubuntu:22.04": "registry.cn-hangzhou.aliyuncs.com/seam/ubuntu:22.04",
-  "ubuntu:24.04": "registry.cn-hangzhou.aliyuncs.com/seam/ubuntu:24.04"
+  "registry.k8s.io/ingress-nginx/controller:v1.12.1": "registry.cn-hangzhou.aliyuncs.com/seam/controller:v1.12.1",
+  "registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.4": "registry.cn-hangzhou.aliyuncs.com/seam/kube-webhook-certgen:v1.4.4"
 }
