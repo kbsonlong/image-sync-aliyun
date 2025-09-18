@@ -1,4 +1,5 @@
 {
-  "prom/prometheus:v3.5.0": "registry.cn-hangzhou.aliyuncs.com/seam/prometheus:v3.5.0",
-  "grafana/grafana:12.0.2": "registry.cn-hangzhou.aliyuncs.com/seam/grafana:v12.0.2"
+  "ghcr.io/dexidp/dex:v2.43.0": "registry.cn-hangzhou.aliyuncs.com/seam/dex:v2.43.0",
+  "public.ecr.aws/docker/library/redis:7.2.7-alpine": "registry.cn-hangzhou.aliyuncs.com/seam/redis:7.2.7-alpine",
+  "quay.io/argoproj/argocd:v3.1.5": "registry.cn-hangzhou.aliyuncs.com/seam/argocd:v3.1.5"
 }
