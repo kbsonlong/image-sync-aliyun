@@ -1,3 +1,4 @@
 {
-  "velero/velero-plugin-for-aws:v1.2.1": "registry.cn-hangzhou.aliyuncs.com/seam/velero-plugin-for-aws:v1.2.1"
+  "velero/velero-plugin-for-aws:v1.2.1": "registry.cn-hangzhou.aliyuncs.com/seam/velero-plugin-for-aws:v1.2.1",
+  "velero/velero:v1.16.0": "registry.cn-hangzhou.aliyuncs.com/seam/velero:v1.16.0"
 }
