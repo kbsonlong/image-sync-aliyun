@@ -1,4 +1,5 @@
 {
-  "velero/velero-plugin-for-aws:v1.2.1": "registry.cn-hangzhou.aliyuncs.com/seam/velero-plugin-for-aws:v1.2.1",
-  "velero/velero:v1.16.0": "registry.cn-hangzhou.aliyuncs.com/seam/velero:v1.16.0"
+  "docker.io/postgres:11": "registry.cn-hangzhou.aliyuncs.com/seam/postgres:11",
+  "docker.io/busybox:1.36": "registry.cn-hangzhou.aliyuncs.com/seam/busybox:1.36",
+  "ghcr.io/n8n-io/n8n:1.118.1": "registry.cn-hangzhou.aliyuncs.com/seam/n8n:1.118.1"
 }
