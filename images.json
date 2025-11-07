@@ -1,5 +1,6 @@
 {
-  "docker.io/postgres:11": "registry.cn-hangzhou.aliyuncs.com/seam/postgres:11",
-  "docker.io/busybox:1.36": "registry.cn-hangzhou.aliyuncs.com/seam/busybox:1.36",
-  "ghcr.io/n8n-io/n8n:1.118.1": "registry.cn-hangzhou.aliyuncs.com/seam/n8n:1.118.1"
+  "quay.io/argoproj/argocli:v3.7.3": "registry.cn-hangzhou.aliyuncs.com/seam/postgres:11",
+  "quay.io/holos/mccutchen/go-httpbin:v2.14.1": "registry.cn-hangzhou.aliyuncs.com/seam/busybox:1.36",
+  "quay.io/minio/minio:RELEASE.2022-11-17T23-20-09Z": "registry.cn-hangzhou.aliyuncs.com/seam/n8n:1.118.1",
+  "quay.io/argoproj/workflow-controller:v3.7.3": "quay.io/argoproj/workflow-controller:v3.7.3"
 }
