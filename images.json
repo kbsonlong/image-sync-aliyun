@@ -1,3 +1,7 @@
 {
-  "kindest/node:v1.33.1": "registry.cn-hangzhou.aliyuncs.com/seam/node:v1.33.1"
+  "kindest/node:v1.33.1": "registry.cn-hangzhou.aliyuncs.com/seam/node:v1.33.1",
+  "docker.io/kindest/local-path-helper:v20241212-8ac705d0": "registry.cn-hangzhou.aliyuncs.com/seam/local-path-helper:v20241212-8ac705d0",
+  "docker.io/kindest/local-path-provisioner:v20250214-acbabc1a": "registry.cn-hangzhou.aliyuncs.com/seam/local-path-provisioner:v20250214-acbabc1a",
+  "docker.io/ealen/echo-server:0.9.2": "registry.cn-hangzhou.aliyuncs.com/seam/echo-server:0.9.2",
+  "registry.k8s.io/ingress-nginx/controller:v1.14.0": "registry.cn-hangzhou.aliyuncs.com/seam/controller:v1.14.0"
 }
