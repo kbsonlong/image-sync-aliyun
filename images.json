@@ -1,3 +1,3 @@
 {
-  "ghcr.io/home-assistant/home-assistant:stable": "registry.cn-hangzhou.aliyuncs.com/seam/home-assistant:stable"
+  "ghcr.io/berriai/litellm:main-latest": "registry.cn-hangzhou.aliyuncs.com/seam/litellm:main-latest"
 }
